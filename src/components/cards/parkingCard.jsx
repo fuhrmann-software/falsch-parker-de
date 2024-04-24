@@ -26,7 +26,12 @@ export const ParkingCard = ({ type, text, onClick }) => {
       <div className='absolute left-0 top-0 z-[1] p-4 text-xl text-white'>
         {text}
       </div>
-      <Image src={src} fill alt='Falsch-parker logo' className='object-cover' />
+      <Image
+        src={src}
+        fill
+        alt='Falsch-parker logo'
+        className='object-cover object-bottom'
+      />
       <CornerButtonContainer>
         <RoundButton
           icon={ArrowRight}

@@ -29,5 +29,5 @@ export function middleware(request) {
 }
 
 export const config = {
-  matcher: ['/((?!_next|favicon.ico|sitemap.xml).*)'],
+  matcher: ['/((?!_next|favicon.ico|sitemap.xml|opengraph-image.png).*)'],
 };

@@ -8,7 +8,7 @@ export const TrustedBySection = () => {
     <div className='my-[150px]'>
       <Container>
         <div className='py-5'>
-          <SectionTitle title='Vertraut' />
+          <SectionTitle title='Trusted' />
         </div>
       </Container>
       <div className='mt-3 flex items-center justify-center'>

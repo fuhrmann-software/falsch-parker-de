@@ -43,8 +43,8 @@ const CarouselItem = ({ type }) => {
     case 5:
       src = Image5;
       alt = 'Brand';
-      width = 189;
-      height = 85;
+      width = 125;
+      height = 67;
       break;
     case 6:
     default:

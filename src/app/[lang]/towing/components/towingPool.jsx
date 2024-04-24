@@ -43,7 +43,7 @@ const RenderGreenGradient = () => {
   return (
     <div className='relative h-[730px] w-1/2 overflow-hidden rounded-bl-card rounded-tl-card rounded-tr-card max-md:h-[350px] max-md:w-full '>
       <div className='absolute z-[2] flex h-full flex-col content-between justify-between p-[40px]'>
-        <span className='text-4xl !leading-tight text-white max-xl:text-3xl max-lg:text-3xl max-[1000px]:text-2xl max-[870px]:text-xl max-md:text-4xl max-sm:text-3xl max-[480px]:text-2xl max-[410px]:text-xl'>
+        <span className='text-4xl !leading-tight text-white max-xl:text-3xl max-[1000px]:text-2xl max-[870px]:text-xl max-md:text-4xl max-sm:text-3xl max-[480px]:text-2xl max-[410px]:text-xl lg:text-[33px] xl:text-[44px]'>
           Sind sie ein Abschleppuntenehmen?
         </span>
 

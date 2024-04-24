@@ -29,7 +29,7 @@ const TowingPage = () => {
           <DivideBanner
             titleComponent='h1'
             title='Jetzt auf Firmen- und Privatparkplätze abschleppen.'
-            subtitle='Sie haben das Recht, Falschparker auf Ihrem Parkplatz abschleppen zu lassen.'
+            subtitle='Unser Abschleppdienstleister-Netzwerk besteht aus verschiedenen Unternehmen in Ihrer Umgebung. Durch die automatische Erfassung der nahegelegenen Abschleppfahrer mittels GPS-Signal wird eine schnelle Ankunftszeit des Abschleppwagens am Einsatzort sichergestellt.'
             images={[EyeIcon, PhotoIcon, TowingIcon]}
           />
         </div>

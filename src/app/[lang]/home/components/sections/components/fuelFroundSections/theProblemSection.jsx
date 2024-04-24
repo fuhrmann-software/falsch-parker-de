@@ -32,7 +32,7 @@ export const TheProblemSection = () => {
               Das Problem
             </span>
             <h4 className='mt-6 max-w-[800px] text-8xl text-white max-lg:text-5xl max-sm:text-3xl'>
-              <span className='text-white/50'>Treibstoffbezug</span>
+              <span className='text-white/50'>Kraftstoffbezug</span>
               <br />
               ohne zu bezahlen.
             </h4>

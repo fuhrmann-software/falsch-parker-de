@@ -25,7 +25,7 @@ const usersInfo = [
   {
     userImage: User3,
     userName: 'Mark Lee',
-    userInfo: 'Security Supervisor, Downtown Mall',
+    userInfo: 'Security Supervisor, Shopping Center',
     userComment:
       '“Die Falschparker-App, zusammen mit ihren Park Guards, hat unsere Parkplatzsicherheit verbessert. Das QR-Ticketsystem ist innovativ und hat unbefugtes Parken erheblich reduziert.”',
   },

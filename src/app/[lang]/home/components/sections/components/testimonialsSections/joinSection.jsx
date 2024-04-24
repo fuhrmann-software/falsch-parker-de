@@ -19,8 +19,8 @@ export const JoinSection = () => {
               <span>8001 Zürich</span>
             </div>
             <div className='flex flex-col'>
-              <span>Schützengasse 4</span>
-              <span>8001 Zurich</span>
+              <span>Kohlestrasse 10</span>
+              <span>8952 Schlieren</span>
             </div>
           </div>
           <div className='w-1/2 max-md:w-full md:w-1/2 '>
@@ -44,7 +44,7 @@ export const JoinSection = () => {
 
       <div className='mt-[80px] flex h-[250px] w-full max-w-[450px] flex-col content-between items-center justify-between rounded-card bg-white p-[60px] text-center max-md:mt-4'>
         <span className='text-3xl text-dark max-sm:pb-6'>
-          Parkbusse erhalten
+          Parkbusse erhalten?
         </span>
         <PayFineButton text='Jetzt bezahlen	' />
       </div>

@@ -18,7 +18,7 @@ export const FuelFraudSection = () => {
           titleComponent='span'
           title='Den Verwaltungsaufwand für Fälle von Tankflucht auf 2 Minuten
               minimieren.'
-          subtitle='Unsere digitale Lösung bietet Tankstellenbetreibern die höchste Effizient zur Behandlung von Tankfluchtverstösse.'
+          subtitle='Unsere digitale Lösung bietet Tankstellenbetreibern die höchste Effizienz bei der Bearbeitung von Tankfluchtverstössen und den damit verbundenen Folgen. Wir übernehmen den gesamten administrativen Aufwand, der bei einem Treibstoffbezug ohne Bezahlung entsteht. Mit nur wenigen Klicks können Sie eine Tankflucht in weniger als 20 Sekunden melden, und wir kümmern uns um den Rest, damit sich Ihre Mitarbeiter auf Ihr Kerngeschäft konzentrieren können.'
           images={[RefillIcon, CoinIcon, LikeIcon]}
         />
       </Element>

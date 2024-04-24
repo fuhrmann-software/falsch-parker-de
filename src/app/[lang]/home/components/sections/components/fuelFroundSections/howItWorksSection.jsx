@@ -28,8 +28,7 @@ export const HowItWorksSection = () => {
           <div className='flex h-full w-1/2 items-center max-md:w-full md:w-1/2'>
             <div className='max-w-[480px] pr-10 text-white'>
               <div className='pb-9 text-4xl'>
-                Ein kleiner Schritt für Sie - ein großer Sprung für Ihren
-                Betrieb.
+                Tankflucht mit wenigen klicks melden.
               </div>
               <div className='text-lg'>
                 Das Hochladen des Beweismaterials, bestehend aus einem Foto des

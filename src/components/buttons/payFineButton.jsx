@@ -7,7 +7,7 @@ export const PayFineButton = () => {
     <Link
       target='_blank'
       href='https://app.falsch-parker.ch/ticket/4e7bf67e-7ced-46eb-b646-01dd8d6b4475'>
-      <ArrowDotButton theme='green'>Jetzt bezahlen </ArrowDotButton>
+      <ArrowDotButton theme='green'>Parkbusse bezahlen</ArrowDotButton>
     </Link>
   );
 };

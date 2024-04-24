@@ -51,7 +51,7 @@ const Footer = ({ lang }) => {
                 <Link
                   href='tel:+41 44 123 45 67'
                   className='w-fit text-2xl transition duration-300 hover:opacity-50'>
-                  +41 44 123 45 67
+                  +41 76 561 88 37
                 </Link>
               </div>
               <div className='flex gap-2'>

@@ -23,7 +23,7 @@ export const TrackTowingSection = () => {
     <div className='flex w-full gap-5 max-md:flex-col'>
       <div className='relative h-[730px] overflow-hidden rounded-bl-card rounded-tl-card rounded-tr-card max-lg:h-[450px] md:w-1/2'>
         <div className='absolute top-0 z-[1] flex w-full flex-col p-8 text-center text-dark max-md:text-3xl md:text-4xl lg:text-6xl'>
-          <span>Ankunftszeit in Echtzeit (GPS) des Fahrers mitverfolgen.</span>
+          <span>Ankunft des Fahrers über GPS mitverfolgen.</span>
         </div>
         <Image
           src={MobileAppMap}

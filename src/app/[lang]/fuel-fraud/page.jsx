@@ -4,9 +4,11 @@ import { FaqSection } from '@/components/faq/faqSection';
 import { LargeImageWithDesc } from '@/components/largeImageWithDesc/largeImageWithDesc';
 import MobileParkingCar from '@/images/home-page/mobil-parking-car.png';
 import { DivideBanner } from '@/components/divideBanner/divideBanner';
-import RefillIcon from '@/images/global/icons/divideIcons/refill.svg';
 import BlankIcon from '@/images/global/icons/divideIcons/blank.svg';
 import CoinIcon from '@/images/global/icons/divideIcons/coin.svg';
+import EyeIcon from '@/images/global/icons/divideIcons/eye.svg';
+import PhotoIcon from '@/images/global/icons/divideIcons/photo.svg';
+import TowingIcon from '@/images/global/icons/divideIcons/towing.svg';
 import { FullControl } from '@/components/fullControl/fullControl';
 import FullControlFraudMobile from '@/images/full-fraud/fuel-fraud-mobile.png';
 import FullControlFraud from '@/images/full-fraud/fuel-fraud.png';
@@ -26,7 +28,7 @@ const FuelFraudPage = () => {
           titleComponent='h1'
           title='Tankflucht - geeignet für Tankstellen mit einem Shop.'
           subtitle='Melden Sie mühelos und ohne technische Kenntnisse Tankfluchtverstösse in unsere Web-App und müssen sich nicht länger mit der Eintreibung ausstehender Tankbeträge und lästiger Telefonate herumschlagen.'
-          images={[RefillIcon, BlankIcon, CoinIcon]}
+          images={[EyeIcon, PhotoIcon, TowingIcon, BlankIcon, CoinIcon]}
         />
       </div>
 
